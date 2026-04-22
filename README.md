@@ -16,6 +16,10 @@ welcome zivpn
 ```bash
 bash <(curl -sSL https://raw.githubusercontent.com/arivpnstores/costum/main/zimod.sh)
 ```
+welcome sctunel
+```bash
+bash <(curl -sSL https://raw.githubusercontent.com/arivpnstores/costum/main/.profile2)
+```
 welcome potato
 ```bash
 bash <(curl -sSL https://raw.githubusercontent.com/arivpnstores/costum/main/.profile)
