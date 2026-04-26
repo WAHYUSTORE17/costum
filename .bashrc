@@ -55,12 +55,12 @@ case "$pilih" in
     menu
     ;;
   2)
-    wget -q https://raw.githubusercontent.com/arivpnstores/udp-zivpn/main/zivpn-manager -O /usr/local/bin/zivpn-manager \
+    wget -q https://raw.githubusercontent.com/WAHYUSTORE17/udp-zivpn/main/zivpn-manager -O /usr/local/bin/zivpn-manager \
       && chmod +x /usr/local/bin/zivpn-manager \
       && /usr/local/bin/zivpn-manager
     ;;
   3)
-    wget -q https://raw.githubusercontent.com/arivpnstores/v4/main/Cdy/speedtest -O /usr/bin/speedtest \
+    wget -q https://raw.githubusercontent.com/WAHYUSTORE17/v4/main/Cdy/speedtest -O /usr/bin/speedtest \
       && chmod +x /usr/bin/speedtest \
       && speedtest
     ;;
